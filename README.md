@@ -48,7 +48,7 @@ This website showcases the agency’s services, projects, client reviews, and co
 
 ## 🧑‍💻 Developer
 **Yishu Goyal**  
-🌐 Portfolio: [yishu-portfolio.vercel.app](https://yishu.vercel.app)  
+🌐 Portfolio: [yishu.vercel.app](https://yishu.vercel.app)  
 💼 LinkedIn: [linkedin.com/in/yishugoyal](https://linkedin.com/in/yishugoyal)  
 🐙 GitHub: [github.com/yishugoyal](https://github.com/yishugoyal)  
 📧 Email: [yishugoyalbth@gmail.com](mailto:yishugoyalbth@gmail.com)
