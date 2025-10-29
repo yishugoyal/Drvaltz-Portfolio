@@ -3,7 +3,7 @@
 > 🚀 **Developed by [Yishu Goyal](https://yishu.vercel.app)**  
 > A modern company portfolio website built for **DRVALTZ**, a social media growth and creative agency.
 
-🌐 **Live Website:** [https://drvaltz.vercel.app](https://drvaltz.vercel.app)
+🌐 **Live Website:** [https://drvaltz.vercel.app](https://drvaltz.vercel.app),[https://drvaltz.com](https://drvaltz.com)
 
 ---
 
